@@ -1,4 +1,4 @@
-# Assignment-Two-CNN-Model.ipynb
+# CNN-Model.ipynb
 # CNN-based Rotation Angle Estimation
 
 ## Overview
